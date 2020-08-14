@@ -1,0 +1,2 @@
+# discrete-time-appraisal-dynamics-of-teams
+We introduce a novel mathematical that describes the process by which individuals in a collaborating team appraise one another. The model captures how observed performance values and cognitive biases affect how individuals evaluate or appraise neighboring team members. The mathematical model is then verified for accuracy using an experimental data set, where participants reported the ground-truth appraisal networks at various rounds, while completing a sequence of intellective tasks.
